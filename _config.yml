@@ -3,7 +3,7 @@ title:               jihyun
 tagline:             'nice and slow'
 description:         'janie_log'
 url:                 http://jihyun-bit.github.io
-baseurl:             ''
+baseurl:             ""
 paginate:            5
 permalink:           pretty
 
